@@ -1,0 +1,1 @@
+Appraisal cost is the things we do to prevent defects during the development. As the maturity level increases up to 3rd level, effort to implement and operate these said appraisal tasks like Inspections, Field Testing, Calibration etc. increases, this results in the increased costs up to 3rd level.

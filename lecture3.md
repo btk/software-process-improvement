@@ -1,6 +1,6 @@
 # Software Development Patterns
 
-- Quality management program needs a lot of time and efford.
+- Quality management program needs a lot of time and effort.
 
 **Cosby's Maturity Grid**
 
